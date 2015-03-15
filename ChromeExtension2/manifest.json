@@ -11,7 +11,7 @@
     "default_popup": "popup.html"
   },
   "content_scripts": [ {
-    "js": [ "jquery.min.js", "background.js" ],
+    "js": [ "jquery.min.js","jquery-ui.js", "background.js" ],
     "matches": [ "http://*/*", "https://*/*"]
   }]
 }
