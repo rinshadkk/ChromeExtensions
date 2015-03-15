@@ -54,6 +54,6 @@ $('document').ready(function(){
 	//alert(document.getElementById('logocont'));
 	//alert(document.body.innerHTML);
 	//$("body").append('<script>function TestFunction(){ alert("Hello");}</script>');
-	$("body").append('<div class="triggerButton" onclick="TestFunction();">O</div>');
+	$("body").append('<div class="triggerButton" onclick="TestFunction();">.</div>');
 	});
 
